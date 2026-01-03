@@ -1,0 +1,8 @@
+
+{
+  "name": "cr3cka world",
+  "description": "A high-fidelity GitHub-inspired developer platform clone featuring repository exploration, AI-powered README generation, and a contribution activity tracker.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
